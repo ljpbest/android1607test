@@ -10,6 +10,7 @@
     tools:context="com.example.administrator.day32_train.MainActivity">
 
     <TextView
+        android:id="@+id/lalatest"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="这是android的测试改变" />
